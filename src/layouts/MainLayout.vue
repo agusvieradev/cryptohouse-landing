@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="hHh lpR fFf">
+    <q-layout view="hHh lpR fFf">
     <q-header reveal class="gt-sm  text-white" height-hint="100">
       <q-toolbar>
         <q-toolbar-title class="text-h4 q-mt-sm q-ml-md ">
@@ -15,7 +15,7 @@
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
-    <Footer />
+    <Footer></Footer>
     <q-page-container>
       <router-view />
     </q-page-container>
@@ -48,5 +48,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}</style>
+}
+</style>
 
