@@ -1,7 +1,7 @@
 <template>
   <q-page>
-    <div class="gt-sm q-pa-xl row">
-      <div class="q-mx-sm row">
+    <div class="gt-sm q-pa-xl q-mt-xl row">
+      <div class="q-mx-sm row justify-center">
         <div class="q-mx-md q-my-lg row">
           <div class="col-9">
             <div class="text-h1 text-white text-weight-bold">
@@ -16,10 +16,10 @@
         <div class="q-mx-md q-my-xl row">
           <img src="../assets/vectors/architect-image.png" alt="" class="col-2 q-mr-lg" />
           <div class="col">
-            <div class="text-h3 text-white text-weight-bold q-mb-md">
+            <div class="text-h2 text-white text-weight-bold q-mb-md">
               Sé el Arquitecto de tu Riqueza
             </div>
-            <div class="text-h5 text-white t-description">
+            <div class="text-h4 text-white t-description">
               En <b>CryptoHouse</b> te ofrecemos una plataforma <b>segura</b> y
               <b>fácil</b> de usar para comprar, vender e intercambiar
               criptomonedas. Únete a miles de inversores que han elegido la vía
@@ -28,10 +28,10 @@
           </div>
         </div>
         <div class="q-mx-md q-my-xl q-mb-lg">
-          <div class="text-h3 text-white text-weight-bold q-my-sm">
+          <div class="text-h2 text-white text-weight-bold q-my-sm">
             Descubre cómo las Criptomonedas pueden transformar tu Portafolio
           </div>
-          <div class="text-h5 text-white t-description">
+          <div class="text-h4 text-white t-description">
             Ya sea que estés explorando oportunidades de inversión o simplemente
             busques entender mejor el mundo de las criptomonedas, estamos aquí
             para ayudarte. Completa el formulario para contratar nuestros
