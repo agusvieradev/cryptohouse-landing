@@ -40,9 +40,9 @@
         </div>
 
         <q-card class="my-card shadow-up-20 col q-ma-xl">
-          <div class="row">
+          <div class="row self-center">
             <img src="../assets/vectors/form-image.png" alt="" class="col q-pa-xl" />
-            <div class="col q-pa-lg">
+            <div class="col q-pa-lg self-center">
               <q-card-section>
                 <div class="text-h4 text-white text-weight-bold q-my-sm">
                   Deja tus datos para poder brindarte la mejor atención
@@ -57,7 +57,7 @@
                     label="Escribe tu email" lazy-rules />
 
                   <div>
-                    <q-btn type="submit" class="text-white text-weight-bold q-mt-xs button-send">Enviar</q-btn>
+                    <q-btn type="submit" size="lg" class="text-white text-weight-bold q-mt-xs button-send">Enviar</q-btn>
                   </div>
                 </q-form>
               </q-card-section>
